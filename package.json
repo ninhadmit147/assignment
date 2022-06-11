@@ -1,0 +1,22 @@
+{
+  "name": "assignment",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "server": "json-server --watch db.json --port 3004",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0-beta1",
+    "bootstrap-icons": "^1.8.3",
+    "dayjs": "^1.11.3",
+    "jquery": "^3.6.0",
+    "navigo": "^8.11.1"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fullname": "This is Ning",
+      "specialized": "Developer Website",
+      "image": "http://res.cloudinary.com/thisisninh/image/upload/v1654849122/277794741_537211031309681_805531987516511216_n_ouarlz.jpg",
+      "desire": "Apply the knowledge learned to work and develop more in the future and learn at the same time gain more professional knowledge, how to work and get used to the working environment sooner."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Making a design system from scratch",
+      "time": "12 feb 2022",
+      "work": "ES6",
+      "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. "
+    },
+    {
+      "id": 2,
+      "title": "some comment",
+      "time": "12 feb 2022",
+      "work": "ES6",
+      "body": "bodys"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Making a design system from scratch",
+      "time": "8-6-2022",
+      "body": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet. "
+    },
+    {
+      "title": "Welcome to Blog",
+      "time": "7-6-2022",
+      "body": "Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note Note ",
+      "id": 2
+    },
+    {
+      "title": "312312",
+      "time": "7-6-2022",
+      "body": "3123123",
+      "id": 3
+    },
+    {
+      "title": "Ngành IT Việt Nam hiện nay ở đầu của sự phát triển",
+      "time": "8-6-2022",
+      "body": "Thằng em mình học bách khoa cơ khí, sinh năm 96. Tự mày mò học code rồi đi làm remote cho công ty Mỹ 2 năm nay. Mỗi tối online 3-4 giờ là xong việc. Lương tháng 3k6. Nhưng thu nhập chính vẫn là từ nhận các project bên ngoài làm thêm. Tuần làm 2,3 cái nhẹ nhàng 9,10k tiền tươi thóc thật không phải đóng thuế. Làm gần được 3 năm mà nhà xe nó đã mua đủ cả. Nghĩ mà thèm.\n\nGái gú thì cứ nghe nó bảo làm CNTT thì chảy nước. Có bé kia dân du học sinh Úc, về được cô chị giới thiệu làm ngân hàng VCB. Thế nào thằng ấy đi mở thẻ tín dụng gặp phải thế là hốt được cả chị lẫn em. 3 đứa nó sống chung một căn hộ cao cấp. Nhà con bé kia biết chuyện ban đầu phản đối sau biết thằng đấy học IT thì đổi thái độ, cách ba bữa hỏi thăm, năm bữa tặng quà lấy long, luôn giục cưới kẻo lỡ kèo ngon.\n\n",
+      "id": 4
+    }
+  ],
+  "projects": [
+    {
+      "id": 3,
+      "name_project": "Hehe",
+      "time": "2009-03-30",
+      "work": "dev",
+      "avatar": "http://res.cloudinary.com/thisisninh/image/upload/v1654745711/244985985_565275521246200_8220039425200605072_n_mkxpdt.jpg",
+      "img1": "http://res.cloudinary.com/thisisninh/image/upload/v1654745711/283237630_570024374516363_1197577500313863266_n_rnkrj1.jpg",
+      "body1": "h i fiosfaisdh fla fasdf aosifnasd fasdfh asidf a ufasd  asd fasd á á  á aewf sdf Ừè wefsdf weq sadf awe fascf werf sdf fsd sd"
+    },
+    {
+      "name_project": "New Project",
+      "time": "2022-02-22",
+      "work": "Leader",
+      "avatar": "http://res.cloudinary.com/thisisninh/image/upload/v1654700671/244976653_381875540152281_6737005108501833016_n_bwa9m2.jpg",
+      "img1": "http://res.cloudinary.com/thisisninh/image/upload/v1654700672/284141723_1936627613188980_4947945670714614052_n_uhgkfk.jpg",
+      "body1": "Lunar New Year Festival often falls between late January and early February; it is among the most important holidays in Vietnam. Officially, the festival includes the 1st, 2nd, and 3rd day in Lunar Calendar; however, Vietnamese people often spend nearly a month celebrating this special event. Tet Holiday gets its beginning marked with the first day in the Lunar Year; however, its preparation starts long before that. The 23rd day of the last Lunar month is East Day—a ritual worshiping Kitchen Gods (Tao Cong). It thought that each year on this day, these Gods go to heaven to tell Jade Emperor about all activities of households on earth. On New Year’s Eve, they return home to continue their duties as taking care of families. On New Year’s Day, the first ones who come to visit households—called first-foot—are very important and hence need to be well chosen, as they believed to hold in their hands the entire luck of the family in New Year (Tan Nien). After that, till the third day or even the fourth day of Tet, individuals meet relatives, friends, and colleagues, wishing them all kinds of good things like happiness, health, and success.",
+      "img2": "http://res.cloudinary.com/thisisninh/image/upload/v1654700673/280673434_714321613030930_6905524151205332728_n_pmxcwo.jpg",
+      "body2": "Lunar New Year Festival often falls between late January and early February; it is among the most important holidays in Vietnam. Officially, the festival includes the 1st, 2nd, and 3rd day in Lunar Calendar; however, Vietnamese people often spend nearly a month celebrating this special event. Tet Holiday gets its beginning marked with the first day in the Lunar Year; however, its preparation starts long before that. The 23rd day of the last Lunar month is East Day—a ritual worshiping Kitchen Gods (Tao Cong). It thought that each year on this day, these Gods go to heaven to tell Jade Emperor about all activities of households on earth. On New Year’s Eve, they return home to continue their duties as taking care of families. On New Year’s Day, the first ones who come to visit households—called first-foot—are very important and hence need to be well chosen, as they believed to hold in their hands the entire luck of the family in New Year (Tan Nien). After that, till the third day or even the fourth day of Tet, individuals meet relatives, friends, and colleagues, wishing them all kinds of good things like happiness, health, and success.",
+      "img3": "http://res.cloudinary.com/thisisninh/image/upload/v1654700674/images_5_mc6gn9.jpg",
+      "body3": "Lunar New Year Festival often falls between late January and early February; it is among the most important holidays in Vietnam. Officially, the festival includes the 1st, 2nd, and 3rd day in Lunar Calendar; however, Vietnamese people often spend nearly a month celebrating this special event. Tet Holiday gets its beginning marked with the first day in the Lunar Year; however, its preparation starts long before that. The 23rd day of the last Lunar month is East Day—a ritual worshiping Kitchen Gods (Tao Cong). It thought that each year on this day, these Gods go to heaven to tell Jade Emperor about all activities of households on earth. On New Year’s Eve, they return home to continue their duties as taking care of families. On New Year’s Day, the first ones who come to visit households—called first-foot—are very important and hence need to be well chosen, as they believed to hold in their hands the entire luck of the family in New Year (Tan Nien). After that, till the third day or even the fourth day of Tet, individuals meet relatives, friends, and colleagues, wishing them all kinds of good things like happiness, health, and success.",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name_project": "Cre: Ninh",
+      "time": "2222-12-31",
+      "work": "sass",
+      "avatar": "http://res.cloudinary.com/thisisninh/image/upload/v1654746667/250971277_350805243469934_1020131562470872071_n_jd6xx1.jpg",
+      "img1": "http://res.cloudinary.com/thisisninh/image/upload/v1654746684/245487019_397421645450661_7678052498059616005_n_ifrnll.jpg",
+      "body1": "4123412 1 2 1   d ầ aef szdf s f qe f a43 qdwsf q43w tqwe qwe qư  qe awefa sd e ă asd qwe fqfs a"
+    },
+    {
+      "name_project": "New Project 2",
+      "time": "2022-12-21",
+      "work": "dev",
+      "avatar": "http://res.cloudinary.com/thisisninh/image/upload/v1654744876/284141723_1936627613188980_4947945670714614052_n_akgqsb.jpg",
+      "img1": "http://res.cloudinary.com/thisisninh/image/upload/v1654744877/t%E1%BA%A3i_xu%E1%BB%91ng_1_m32qlj.jpg",
+      "body1": "3123 12 s we easu pusdf zdhfkjipufsdk jfapidkbsa iupasjhf 9kjs fwekjfh98we wehfsjdf asd fausdfwje8jksdufh f euhnds nf sè ndusih fnsiudh feui udf asnf9ensd flakjsdnf pwefjns dù aseuhfsd f asdjf awef usdf lajsdfawe fd faiusdhf apisefaiudf asufh ăpiefa",
+      "id": 6
+    },
+    {
+      "name_project": "Hehe",
+      "time": "2022-02-13",
+      "work": "sass",
+      "avatar": "http://res.cloudinary.com/thisisninh/image/upload/v1654745032/241051334_122053056840318_1600850630811793865_n_y9mcav.jpg",
+      "img1": "http://res.cloudinary.com/thisisninh/image/upload/v1654745033/273274994_514818483559527_3894938117773659729_n_tisbf0.jpg",
+      "body1": "Không biết anh Thành Vũ có biết Tú có Ny hay không, chúng tôi biết rằng tú có ny là người chơi khá nổi tiếng với con bài Florentino, ngày hôm nay anh ta đi cầm Florentino và chơi rất hay, trận thi đấu vừa xong là trận thi đấu mà chúng ta có thể thấy rằng là các bạn khán giả cũng có kĩ năng rất tốt- đặc biệt là người chơi bên phía của đội tuyển Đồng 5 đội tuyển Trái Đất đó là Tú có Ny, tôi thấy rằng anh ta chưa để cái tốc biến mình hồi được hiện xanh quá lâu anh ta sử dụng ngay lập tức bằng những tình huống mở giao tranh của mình và chính Tú có Ny là MVP của trận thi đấu này với 14.0 điểm MVP\n Một tình huống mà có lẽ Flo đang làm quá nhiều điều, những tình huống bông muq muq muq muq, bỏ chạy với Flo, Flo đang múa quá nhức nách, phải nói là Flo võ công quá cao cường\n Và đây là Florentino, Florentino ui một cái tình huống phải nói là cực gắt. Tú có Ny và người chơi này có lẽ sẽ có Ny thôi, đánh quá ghê. Những tình huống bông hoa bông hủng phải nói là đúng top 1, buff bẩn\n Tú có Ny, thằng Tú nó đánh căng lắm, thằng Tú nó đánh đau đầu lắm, đụ má đéo đỡ được, thằng Tú nó đánh kinh vãi đái ra, nó đánh Flo căng vãi đái luôn. Tú có Ny- Và đây là Pho Len Ti lô, Flo đang múa quá nhức nách, phải nói là Flo võ công quá cao cường, Florentino ui một cái tình huống phải nói là cực gắt, Tú có Ny và người chơi này có lẽ sẽ có Ny thôi, đánh quá ghê. Những tình huống bông hoa bông hủng phải nói là đúng top 1, buff bẩn.\n Hello mọi người mình là Tú có Ny, Tú kìa anh ơi, Tú đâu? Tú nào, triệu hồi Tú có Ny đâu, Tú đâu vào ngay, anh em dành đường cho Tú có Ny. Bách có Ny và Tú có Ny, solo với tíc tóc cơ để có gì còn lên cờ líp. Thằng này nó chọc nhanh quá, tay nó nhanh quá các bạn ạ, má căng thế nhờ, chọc vậy không chết, game đúng lỗi. Mẹ thằng này nó chọc nhanh thế nhờ thề luôn á, mình không hiểu 1 cái thế lực nào mà nó chọc như cái máy bơm vậy các bạn ạ nó cứ tọt tọt tọt tọt tọt tọt tọt tọt tọt tọt. - Và đây là Pho Len Ti lô, một tình huống mà có lẽ Flo đang làm quá nhiều điều, những tình huống bông muq muq muq muq, bỏ chạy với Flo, Flo đang múa quá nhức nách, phải nói là Flo võ công quá cao cường.\n Tú có Ny, Trần Tú đâu? Trần Tú đâu? Trần Tú đâu anh em? Đâu đâu đâu best flo à best flo à, đây à Tú có Ny đây à. Phải không đấy? Phải Tú có Ny không đây, à đây đây đây đây đây, tíc tóc cơ tíc tóc cơ. Tú có Ny à nghe cái tên quen lắm này, xem tíc tóc hay có Tú có Ny lắm này. Đấy! Best flo đây. Thằng này múa flo mượt quá anh em ơi, má múa Flo nhanh quá. Múa Flo như thế này chịu nhá, múa flo như thế này chịu nhá. Ghế thế! Múa flo kinh thế! Múa thế mà giết người đi, trời ơi! Má múa đỉnh thế. Và đây là Florentino, một tình huống mà có lẽ Flo đang làm quá nhiều điều, những tình huống bông muq muq muq muq, bỏ chạy với Flo, Flo đang múa quá nhức nách, phải nói là Flo võ công quá cao cường. Tú có Ny, đấy best flo đấy!\n Lại là thằng Florentino top cơ à ghê quá nhờ, để xem tiktok múa như nào nào. Chơi đê chơi đê chơi đê, Flo chơi đê. Đấy tiktok phải giết được đấy nhá. Flo đâu Flo đâu Flo đâu, chơi đi kìa, lùa nó kìa lùa nó kìa. Được quá nhề. Múa để thầy vào múa để thầy vào. Ui nó 4 người đấy em ơi, nó 4 người đấy. Ghê vậy, top ghê vậy, ui top ghê thế.",
+      "id": 7
+    }
+  ]
+}
